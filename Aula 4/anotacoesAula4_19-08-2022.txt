@@ -1,4 +1,0 @@
-Anotações Aula 4 - 19/08/2022
-
-Análise Exploratória - Processo investigação de dados para descoberta de insights, padrões, anomalias para testar hipoteses e verificar suposições, empregando técnicas e conceitos estatísticos e representações visuais/gráficas.
-
